@@ -6,7 +6,6 @@ kubernetes is the orchestration tools. I use here k3d cluster which is lighweigh
 * [install k3d](https://community.chocolatey.org/packages/k3d/)
 
 ### For more information on Kubernetes, please refer to the following resources:
-
 * [Kubernetes documentation](https://kubernetes.io/docs/home/)
 * [Kubernetes tutorial](https://kubernetes.io/docs/tutorials/hello-kubernetes/)
 * [Kubernetes community](https://kubernetes.io/community/)
